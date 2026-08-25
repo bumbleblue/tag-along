@@ -1,0 +1,8 @@
+# Old Persona-era URLs → new clean URLs
+/Home               /                   301
+/Playbook           /playbook/          301
+/Upcoming-Events    /events/            301
+/Sample-Invitation  /invitation/        301
+/Code-of-Conduct    /code-of-conduct/   301
+/Imprint            /imprint/           301
+/backstage/contact  /contact/           301

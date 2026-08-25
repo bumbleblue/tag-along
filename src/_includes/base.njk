@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} · {{ site.name }}{% else %}{{ site.name }} — {{ site.tagline | lower }}{% endif %}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/img/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#f6ffed">
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/img/favicon.ico" sizes="32x32">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="riso-rail" aria-hidden="true"></div>
+  <div class="page">
+    <header class="site-header">
+      <a class="wordmark" href="/">Tag along</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="/playbook/" {% if '/playbook/' == page.url %}aria-current="page"{% endif %}>Playbook</a>
+        <a href="/events/" {% if '/events/' == page.url %}aria-current="page"{% endif %}>Events</a>
+        <a href="/contact/" {% if '/contact/' == page.url %}aria-current="page"{% endif %}>Get in touch</a>
+      </nav>
+    </header>
+    <main id="main">
+      {{ content | safe }}
+    </main>
+    <footer class="site-footer">
+      <div class="footer-cols">
+        <div>
+          <p class="footer-title">Tag along</p>
+          <p>An event concept you can copy and remix.<br>Started in Berlin, 2019.</p>
+        </div>
+        <nav aria-label="All pages">
+          <p class="footer-title">Site&nbsp;map</p>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/playbook/">Playbook</a></li>
+            <li><a href="/events/">Upcoming events</a></li>
+            <li><a href="/invitation/">Sample invitation</a></li>
+            <li><a href="/code-of-conduct/">Code of conduct</a></li>
+            <li><a href="/contact/">Get in touch</a></li>
+            <li><a href="/imprint/">Imprint &amp; privacy</a></li>
+          </ul>
+        </nav>
+        <div>
+          <p class="footer-title">Remix</p>
+          <p>This entire site is <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.<br>
+          <a href="{{ site.github }}">Fork it on GitHub</a> and make it yours.</p>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
