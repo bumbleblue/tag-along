@@ -26,7 +26,9 @@ Our [Playbook](/playbook/) covers most topics related to organizing a local *Tag
 
 ## What's the *Tag along* story?
 
-Eileen had the idea to start *Tag along* in Berlin back in 2019. The problem was clear: Berlin is a big city with many talented singers. Many of them are interested in exploring barbershop music. And yet it's hard to find people who want to commit to singing regularly in an ensemble (chorus or quartet) — Eileen herself couldn't make a regular rehearsal time! Happily, she teamed up with Andy, who looked for barbershop singers at the time and also happened to be an excellent tag teacher. Together, they hosted *Tag alongs* in Berlin until Eileen moved away for a few years. Andy went on to start [Capital Chords](https://capitalchords.de/), and is still hosting *Tag alongs* every other week in Berlin.
+Berlin, back in 2019. A big and creative city with plenty of talented singers, many of them curious about barbershop — but hardly anyone able to commit to a weekly rehearsal in a chorus or quartet. The first *Tag along* was an answer to that: a drop-in evening where you learn a tag, sing it with whoever shows up, and come back whenever you're free. No auditions to pass, no repertoire to catch up on, no commitment to show up every week.
+
+It worked. The format found its regulars, and the Berlin *Tag along* eventually grew into [Capital Chords](https://capitalchords.de/), a mixed barbershop chorus that now hosts the sessions every other week. This site exists so the same thing can happen in your city.
 
 ## Copy this whole thing
 
