@@ -9,7 +9,6 @@ description: "Tag along is an event concept you can copy and remix: everything y
 <div class="cta-row">
   <a href="/playbook/">Read the Playbook</a>
   <a href="/events/" class="secondary">Upcoming events</a>
-  <a href="/contact/" class="secondary">Get in touch!</a>
 </div>
 
 **Hello fellow barbershop-obsessed organizer!**
