@@ -3,7 +3,7 @@
   "tagline": "Sing barbershop music with your local community",
   "description": "Tag along is an event concept you can copy and remix: everything you need to kickstart a lightweight barbershop tag-singing event in your community.",
   "url": "https://tagalong.bumble.blue",
-  "cocEmail": "coc@tagalong.site",
-  "github": "https://github.com/YOURNAME/tag-along",
+  "cocEmail": "tagalong@bumble.blue",
+  "github": "https://github.com/bumbleblue/tag-along",
   "lang": "en"
 }

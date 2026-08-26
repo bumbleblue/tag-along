@@ -30,23 +30,6 @@ npm start        # dev server with live reload at http://localhost:8080
 npm run build    # writes the production site to _site/
 ```
 
-## Deploying to Netlify
-
-1. Push this repo to GitHub.
-2. On [Netlify](https://app.netlify.com/): **Add new site → Import an existing project**, pick the repo. Build command `npm run build` and publish directory `_site` are read from `netlify.toml` automatically.
-3. **Enable the contact form:** Site configuration → Forms → Enable form detection (Netlify no longer enables this by default). Submissions arrive under the "contact" form; set up an email notification under Forms → Notifications.
-4. **Custom subdomain:** Domain management → Add a domain → enter your subdomain (e.g. `tagalong.example.com`). Then, at your DNS provider, add a **CNAME record** pointing that subdomain to your Netlify site (`<sitename>.netlify.app`). Netlify provisions HTTPS automatically after DNS propagates.
-5. Update `url` in `src/_data/site.json` to the final address (it's used for `sitemap.xml`, canonical URLs, and social previews) and `github` to this repo's URL.
-
-Old URLs from the previous Persona site (`/Playbook`, `/Upcoming-Events`, …) are redirected in `src/_redirects`, so existing links keep working.
-
-## Checklist before going live
-
-- [ ] `src/_data/site.json`: set `url` and `github`
-- [ ] `src/imprint.md`: fill in the Impressum (legally required in Germany) and delete the TODO box
-- [ ] Netlify: enable form detection, add a form notification email
-- [ ] Verify the code-of-conduct email address in `site.json` still works
-
 ## License
 
 The entire site — texts, playbook, design — is [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Fork it, put your city's name on it, and go sing.
