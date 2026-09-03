@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 permalink: /
-description: "Tag along is an event concept you can copy and remix: everything you need to kickstart a lightweight barbershop tag-singing event in your community."
+description: "Tag along is an event concept you can copy and remix: everything you need to start a casual barbershop tag-singing event in your community."
 ---
 
 # Tag along and sing barbershop music with your local community
@@ -13,15 +13,15 @@ description: "Tag along is an event concept you can copy and remix: everything y
 
 **Hello fellow barbershop-obsessed organizer!**
 
-*Tag along* is an event concept that you can copy and remix for your own community. On this site, you'll find almost everything you need to kickstart a lightweight event bringing people together who like to explore, practice, or master barbershop singing.
+*Tag along* is an event concept that you can copy and remix for your own community. On this site, you'll find almost everything you need to start a casual singing event for anyone who wants to sing barbershop, from the merely curious to the veteran poster.
 
-Our [Playbook](/playbook/) covers most topics related to organizing a local *Tag along*: from teaching your first tag to finding a venue and getting the word out. If you'd rather see one in action first, come [tag along with us](/events/).
+Our [Playbook](/playbook/) covers most of what goes into organizing a local *Tag along*: from teaching your first tag to finding a venue and getting the word out. If you'd rather see one in action first, come [tag along with us](/events/).
 
 ## Why are *Tag alongs* so great?
 
-- Tag singing is a great way to train your ears for barbershop singing. Short, harmonically complex, and very repeatable tags mean that people get the chance to learn the ins and outs of our style.
-- For people wanting to try out quartet singing, tags offer a first taste of quartetting for chorus singers. Since you can sing with many people in a short time, this is also one way to start quartets.
-- It brings people together to see who is interested in singing together without asking for too much commitment up front. This is a great first step in starting your local barbershop chapter.
+- Tags train your ears for barbershop. They're short, harmonically rich, and hold up to endless repetition, so you learn the style chord by chord.
+- Tags are a first taste of quartetting. Chorus singers get to hold a part on their own, and because you sing with so many people in one evening, real quartets have a way of forming.
+- It shows you who else wants to sing, without asking anyone for commitment up front. If a barbershop chapter in your city is the dream, this is how it starts.
 - Just have fun singing barbershop! No pressure to compete, learn music, or get dressed up. No pressure to come to every event, either — it's there whenever you're free and feel like singing!
 
 ## What's the *Tag along* story?

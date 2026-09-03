@@ -15,7 +15,7 @@ Everything we know about running a *Tag along*, on one page: [tags](#so-tags), [
 
 **The one thing you really need is a tag teacher**: someone who can sing each voice part in sequence and hold their own part while everyone else learns theirs. If that's not you yet, that's fine! Learning tracks and sing-along videos can do the heavy lifting (see [how to teach a tag](#how-to-teach-a-tag)), and your tag teacher skills grow with every event.
 
-**Things you don't need:** an existing chorus or organization, funding, a fancy venue, experienced singers, or a minimum crowd. Four people is a quartet. Eight people is two quartets' worth of discoveries. The four parts are **tenor, lead, bari, and bass**, and any mix of voices can sing them. Most tags exist in men's, women's, and mixed voicings, and people can sing any part in whatever octave works. Say "all voices welcome" in your invitation and mean it.
+**Things you don't need:** an existing chorus or organization, funding, a fancy venue, experienced singers, or a minimum crowd. Four people is a quartet. Eight people is two. The four parts are **tenor, lead, bari, and bass**, and any mix of voices can sing them. Most tags exist in men's, women's, and mixed voicings, and people can sing any part in whatever octave works. Say "all voices welcome" in your invitation and mean it.
 
 ## What you need to prepare
 
@@ -111,14 +111,14 @@ Once your regulars can't get enough of tags, give them whole songs. The **Barber
 
 Group quartetting is a format we developed specifically for *Tag along*. Our goal was to give newcomers a chance to try out quartet singing — as opposed to chorus singing — with some guidance.
 
-We ask a first group with all four voice parts to stand in box formation. They each identify their voice part (lead, tenor, bari, bass). People who are interested in singing the same voice part line up behind the respective singer. The new quartet then sings the tag that was just taught to them. When the quartet is finished, people can "tag out" the singers in the middle. Not everyone needs to be tagged out every round. You are allowed to switch voice parts.
+We ask a first group with all four voice parts to stand in box formation. They each identify their voice part (lead, tenor, bari, bass). Everyone else lines up behind the singer whose part they want to sing. The quartet in the middle sings the tag everyone just learned; when they're done, the next people in line can "tag out" the singers in the middle. Not everyone needs to be tagged out every round, and you can switch voice parts whenever you like.
 
 <figure>
   <img src="/assets/img/quartet-formation.png" alt="Diagram of group quartetting: four singers stand in a box formation facing each other, with a line of waiting singers behind each of the four positions." width="321" height="240">
   <figcaption>Group quartetting: a quartet in the middle, the next singers lined up behind each part.</figcaption>
 </figure>
 
-This accomplishes a few things. People get to sing their voice part alone, as they would in a quartet. The outer circle gets to listen to both their voice part and the entire quartet up close, which is great ear training. This rapid change leads to more discovery, as people get to sing in many different groups. It also doesn't force anyone to sing if they don't want to. For newcomers, this format helps them join a tag when they might not know anyone.
+People get to sing their part alone, as they would in a quartet. The singers waiting behind hear both their own part and the whole quartet up close, which is excellent ear training. Because the middle keeps changing, everyone sings in many different combinations over the evening. And nobody has to sing: waiting your turn and listening is a fine way to spend a round, especially if you're new and don't know anyone yet.
 
 ### Variations
 

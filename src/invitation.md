@@ -27,11 +27,11 @@ Tags are short pieces of barbershop music that are attached at the end of songs.
 
 ## Can I listen to more barbershop?
 
-Yes! We've compiled a [playlist on Spotify](https://open.spotify.com/playlist/3lTvmmXwszFdAIgxAbUCBn?si=C1_sEaL4Tb6YicXAb4ezKg) as a small introduction to the style.
+Yes! We made a [playlist on Spotify](https://open.spotify.com/playlist/3lTvmmXwszFdAIgxAbUCBn?si=C1_sEaL4Tb6YicXAb4ezKg) as a small introduction to the style.
 
 ## What do I need to prepare?
 
-You don't need to prepare anything; we will have sheet music printed out and a toy piano in case we need it.
+Nothing! We'll have sheet music printed out, and a toy piano in case we need it.
 
 ## What do I need to bring?
 
