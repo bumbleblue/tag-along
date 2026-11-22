@@ -2,12 +2,12 @@
 layout: base.njk
 title: Upcoming events
 permalink: /events/
-description: "Where Tag alongs are happening right now: Berlin every other week, plus special events across Europe."
+description: "Where you can tag along right now, starting with Berlin every other week."
 ---
 
 # Upcoming events
 
-Tag alongs are happening in more and more places. Here's what we know about:
+Here's where you can tag along right now:
 
 ## Berlin
 
@@ -21,7 +21,7 @@ The Swiss Association of Barbershop Singers hosts a free afternoon of tag singin
 
 Not *Tag alongs*, but very much our kind of thing:
 
-- [24hrs Barbershop](https://24hrsbarbershop.xyz/) — Berlin, September 11–12, 2026. "Arrange all night. Rehearse all day. Go on stage."
+- [24hrs Barbershop](https://24hrsbarbershop.xyz/), Berlin, September 11–12, 2026. "Arrange all night. Rehearse all day. Go on stage."
 
 <div class="note">
 

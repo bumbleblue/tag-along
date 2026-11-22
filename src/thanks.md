@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
 
 # Message sent!
 
-Thanks for writing, we'll get back to you soon. In the meantime, why not warm up with a tag from the [Playbook](/playbook/)?
+Thanks for writing! We'll get back to you soon. In the meantime, why not learn one of our [favorite first tags](/playbook/#good-first-tags)?
 
 <div class="cta-row">
   <a href="/">Back to the start</a>

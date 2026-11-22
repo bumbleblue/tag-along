@@ -7,7 +7,7 @@ description: "Questions about running a Tag along, an event to list, or feedback
 
 # Get in touch!
 
-Planning a *Tag along* in your city? Have an event we should [list](/events/)? Found something missing in the [Playbook](/playbook/)? We'd love to hear from you.
+Planning a *Tag along* in your city, or running one we should [list](/events/)? Found a gap in the [Playbook](/playbook/)? Write to us.
 
 <form name="contact" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="bot-field">
   <p class="visually-hidden" aria-hidden="true">
@@ -22,4 +22,4 @@ Planning a *Tag along* in your city? Have an event we should [list](/events/)? F
   <button type="submit">Send it over</button>
 </form>
 
-For code-of-conduct concerns, please use [{{ site.cocEmail }}](mailto:{{ site.cocEmail }}) — see our [reporting guidelines](/code-of-conduct/#reporting-guidelines).
+For code-of-conduct concerns, please email [{{ site.cocEmail }}](mailto:{{ site.cocEmail }}) directly, as described in our [reporting guidelines](/code-of-conduct/#reporting-guidelines).
